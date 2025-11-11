@@ -1,4 +1,4 @@
-# OpenTUI 1
+# OpenTUI 12
 
 OpenTUI is a TypeScript library for building terminal user interfaces (TUIs). It is currently in
 development and is not ready for production use. It will be the foundational TUI framework for both
